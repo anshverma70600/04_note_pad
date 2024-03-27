@@ -1,0 +1,15 @@
+/workspaces/04_note_pad/note/bin/Debug/net8.0/note
+/workspaces/04_note_pad/note/bin/Debug/net8.0/note.deps.json
+/workspaces/04_note_pad/note/bin/Debug/net8.0/note.runtimeconfig.json
+/workspaces/04_note_pad/note/bin/Debug/net8.0/note.dll
+/workspaces/04_note_pad/note/bin/Debug/net8.0/note.pdb
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.AssemblyInfoInputs.cache
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.AssemblyInfo.cs
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.csproj.CoreCompileInputs.cache
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.sourcelink.json
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.dll
+/workspaces/04_note_pad/note/obj/Debug/net8.0/refint/note.dll
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.pdb
+/workspaces/04_note_pad/note/obj/Debug/net8.0/note.genruntimeconfig.cache
+/workspaces/04_note_pad/note/obj/Debug/net8.0/ref/note.dll
